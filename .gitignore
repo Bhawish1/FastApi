@@ -1,0 +1,5 @@
+/TODOAPP/.venv/
+/TODOAPP/.env.idea/
+.idea/
+.env
+**/.env
